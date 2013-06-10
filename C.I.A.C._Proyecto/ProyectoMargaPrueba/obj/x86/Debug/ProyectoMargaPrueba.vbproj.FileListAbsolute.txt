@@ -1,0 +1,196 @@
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+C:\Users\Germán\documents\visual studio 2010\Projects\ProyectoMargaPrueba\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\PROYECTO\Visual Studio 2010\Projects\C.I.A.C. proyecto\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Germán\Documents\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documentos\Visual Studio 2010\Projects\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\C.I.A.C. proyecto II\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.exe
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.xml
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ProyectoMargaPrueba.pdb
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe.config
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.exe
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.pdb
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\ProyectoMargaPrueba.xml
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documentos\MARGA PROYECTO\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Documentos\MARGA PROYECTO\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Final de Curso\AQUI FINAL!!!\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C. proyecto II\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Final de Curso\AQUI FINAL!!! - copia\C.I.A.C. proyecto II_por_si_las_moscas!\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe.config
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\bin\Debug\C.I.A.C.exe
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\bin\Debug\C.I.A.C.pdb
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\bin\Debug\C.I.A.C.xml
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Proyecto_German.resources
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto Final de Curso\Proyecto_Final_German_Jongewaard_Revisando\C.I.A.C._Proyecto_Germán_Jongewaard - copia\ProyectoMargaPrueba\obj\x86\Debug\GenerateResource.write.1.tlog
